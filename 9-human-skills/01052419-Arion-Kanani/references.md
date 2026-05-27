@@ -5,3 +5,8 @@
 3. **Harvard Business Review (2025).** *The Technical Skills That Matter When AI Writes the Code.* Analysis of how corporate engineering roles are moving from syntax-centric performance metrics to oversight and systems design.
 4. **Stack Overflow Annual Insights (2025).** *Developer Adoption Rates and the Code Quality Dilemma.* Survey data documenting the rising rates of technical debt and developer frustrations with contextually invalid AI code suggestions.
 5. **GitHub Octoverse Report (2026).** *The State of Open Source, Technical Debt, and Agentic Workflows.* Industry report detailing the critical role of human code validation as automated codebase contributions scale globally.
+
+
+## Additional Resources
+- Gartner (2025). Top Strategic Technology Trends. https://www.gartner.com/en/articles/top-technology-trends-2025
+- MIT Technology Review (2025). What AI Can and Cannot Do in Software Engineering. https://www.technologyreview.com
